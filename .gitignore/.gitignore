@@ -1,0 +1,5 @@
+# Frontend/JS dependencies
+/web/node_modules
+
+#api_server
+/api_server/target
