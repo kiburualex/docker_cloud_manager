@@ -36,7 +36,7 @@ rm -rf .git
 # init new repo
 git init
 git add .
-git commit -m "initial commit of template from https://github.com/ghotiphud/rust-web-starter.git"
+git commit -m "initial commit of template from https://github.com/maretekent/docker_cloud_manager.git"
 ```
 
 # Workflow
